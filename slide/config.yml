@@ -1,0 +1,6 @@
+theme: beige
+presentation:
+  controls: true
+  slideNumber: true
+  backgroundTransition: "concave"
+  enableSpeakerNotes: true
